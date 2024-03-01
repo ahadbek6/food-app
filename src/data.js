@@ -1,6 +1,11 @@
 // Foods Photos
 
 import Food1 from "./assets/images/food1.png";
+import Food2 from "./assets/images/Image2.png";
+import Food3 from "./assets/images/Image3.png";
+import Food4 from "./assets/images/Image4.png";
+import Food5 from "./assets/images/Image5.png";
+
 
 export const FOODS_LIST = [
   {
@@ -13,7 +18,7 @@ export const FOODS_LIST = [
   },
   {
     id: 1,
-    img: Food1,
+    img: Food2,
     title: "Beef dumpling in hot and sour soup",
     price: "2.99",
     amount: "16 Bowls available",
@@ -21,7 +26,7 @@ export const FOODS_LIST = [
   },
   {
     id: 2,
-    img: Food1,
+    img: Food3,
     title: "Salted Pasta with mushroom sauce",
     price: "2.69",
     amount: "11 Bowls available",
@@ -29,7 +34,7 @@ export const FOODS_LIST = [
   },
   {
     id: 3,
-    img: Food1,
+    img: Food4,
     title: "Healthy noodle with spinach leaf",
     price: "3.29",
     amount: "22 Bowls available",
@@ -37,7 +42,7 @@ export const FOODS_LIST = [
   },
   {
     id: 4,
-    img: Food1,
+    img: Food5,
     title: "Spicy instant with special omelette",
     price: "3.69",
     amount: "17 Bowls available",
@@ -53,7 +58,7 @@ export const FOODS_LIST = [
   },
   {
     id: 6,
-    img: Food1,
+    img: Food2,
     title: "Spicy instant with special omelette",
     price: "3.49",
     amount: "13 Bowls available",
@@ -61,7 +66,7 @@ export const FOODS_LIST = [
   },
   {
     id: 7,
-    img: Food1,
+    img: Food3,
     title: "Healthy noodle with spinach leaf",
     price: "3.29",
     amount: "22 Bowls available",
@@ -69,7 +74,7 @@ export const FOODS_LIST = [
   },
   {
     id: 8,
-    img: Food1,
+    img: Food4,
     title: "Healthy noodle with spinach leaf",
     price: "3.29",
     amount: "22 Bowls available",

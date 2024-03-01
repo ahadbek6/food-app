@@ -1,4 +1,4 @@
-import ContactUs from "../assets/Images/contact_us.png";
+import ContactUs from "../assets/images/contact_us.png";
 
 const Contact = () => {
   return (
